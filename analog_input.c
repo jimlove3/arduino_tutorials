@@ -23,3 +23,4 @@ void loop() // this function will run repeatedly
   digitalWrite(ledPin, LOW); //Turn the LED off
   delay(sensorValue);
 }
+//by james love, 2019
