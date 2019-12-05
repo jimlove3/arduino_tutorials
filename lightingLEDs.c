@@ -16,3 +16,5 @@ void loop()
   digitalWrite(9,LOW); //turns the LED attached to pin 9 off
   delay(1000); //waits 1 second
 }
+
+//here are some comments
